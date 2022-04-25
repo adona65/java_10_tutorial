@@ -6,6 +6,7 @@ import java.util.List;
 
 public class _002_LocalVariableTypeInference {
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		/*
 		 * Java 10 finally introduced the "var" keyword incubated in java 9. You can use var for local variables instead of a typed name (Manifest Type). 
